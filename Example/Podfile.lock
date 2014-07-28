@@ -1,0 +1,17 @@
+PODS:
+  - Kiwi (2.3.0)
+  - NativeDataSource (0.1.0)
+
+DEPENDENCIES:
+  - Kiwi
+  - NativeDataSource (from `../`)
+
+EXTERNAL SOURCES:
+  NativeDataSource:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Kiwi: 54bece5b35564d9b8e03c608d926f1a22fcfc589
+  NativeDataSource: ac82cf492103e989fed03dd37286891fdab4bcc7
+
+COCOAPODS: 0.33.1

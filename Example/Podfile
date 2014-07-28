@@ -1,0 +1,9 @@
+target 'NativeDataSource', :exclusive => true do
+  pod "NativeDataSource", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "NativeDataSource", :path => "../"
+
+  pod 'Kiwi'
+end

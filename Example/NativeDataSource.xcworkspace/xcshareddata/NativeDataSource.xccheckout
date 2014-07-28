@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>85882AB3-733C-4459-8F32-0AF9880A7E84</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NativeDataSource</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B8183DE2-39E5-4DA5-8D1C-62F7D57AA7BE</key>
+		<string>ssh://github.com/lovebyte/NativeDataSource.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example/NativeDataSource.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B8183DE2-39E5-4DA5-8D1C-62F7D57AA7BE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/lovebyte/NativeDataSource.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B8183DE2-39E5-4DA5-8D1C-62F7D57AA7BE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B8183DE2-39E5-4DA5-8D1C-62F7D57AA7BE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NativeDataSource</string>
+		</dict>
+	</array>
+</dict>
+</plist>
